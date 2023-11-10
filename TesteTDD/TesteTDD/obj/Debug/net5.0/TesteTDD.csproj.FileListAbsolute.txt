@@ -1,0 +1,15 @@
+C:\dev\TesteTDD\TesteTDD\bin\Debug\net5.0\TesteTDD.exe
+C:\dev\TesteTDD\TesteTDD\bin\Debug\net5.0\TesteTDD.deps.json
+C:\dev\TesteTDD\TesteTDD\bin\Debug\net5.0\TesteTDD.runtimeconfig.json
+C:\dev\TesteTDD\TesteTDD\bin\Debug\net5.0\TesteTDD.runtimeconfig.dev.json
+C:\dev\TesteTDD\TesteTDD\bin\Debug\net5.0\TesteTDD.dll
+C:\dev\TesteTDD\TesteTDD\bin\Debug\net5.0\TesteTDD.pdb
+C:\dev\TesteTDD\TesteTDD\obj\Debug\net5.0\TesteTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteTDD\TesteTDD\obj\Debug\net5.0\TesteTDD.AssemblyInfoInputs.cache
+C:\dev\TesteTDD\TesteTDD\obj\Debug\net5.0\TesteTDD.AssemblyInfo.cs
+C:\dev\TesteTDD\TesteTDD\obj\Debug\net5.0\TesteTDD.csproj.CoreCompileInputs.cache
+C:\dev\TesteTDD\TesteTDD\obj\Debug\net5.0\TesteTDD.dll
+C:\dev\TesteTDD\TesteTDD\obj\Debug\net5.0\refint\TesteTDD.dll
+C:\dev\TesteTDD\TesteTDD\obj\Debug\net5.0\TesteTDD.pdb
+C:\dev\TesteTDD\TesteTDD\obj\Debug\net5.0\TesteTDD.genruntimeconfig.cache
+C:\dev\TesteTDD\TesteTDD\obj\Debug\net5.0\ref\TesteTDD.dll
